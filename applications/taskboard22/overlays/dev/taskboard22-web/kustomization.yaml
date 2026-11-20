@@ -6,4 +6,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/ika100-demo/taskboard22-web
-  newTag: latest
+  newTag: sha-f930afb42c3172412a5812273f94a66011e60217
