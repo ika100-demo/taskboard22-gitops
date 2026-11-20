@@ -1,7 +1,7 @@
 ---
 spec_id: 001-tasks-in-postgres-visible-and-creatable
 title: Tasks in Postgres, visible and creatable in the web UI
-status: draft
+status: approved
 priority: P1
 shape: gitops-app
 ---
@@ -71,3 +71,4 @@ As a team member, I want to add a task with a title and an optional due date fro
 - 2026-11-20 created
 - 2026-11-20 priority P1 proposed: P1: normal bug or feature
 - 2026-11-20 amended: access question answered (no login in dev; login spec before staging or prod), folded into Non-goals
+- 2026-11-20 approved
